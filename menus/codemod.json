@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "ember-modules-codemod run",
+        "command": "atom-ember-modules-codemod:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Ember modules codemod",
+          "submenu": [
+            {
+              "label": "run",
+              "command": "atom-ember-modules-codemod:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
