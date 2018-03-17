@@ -1,7 +1,7 @@
 {
   "name": "atom-ember-modules-codemod",
   "main": "./lib/codemod",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom package for running codemod for new module imports for ember.js",
   "keywords": [],
   "activationCommands": {
