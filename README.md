@@ -1,4 +1,4 @@
-# codemod package
+# atom-ember-modules-codemod
 
 An atom plugin to run ember-modules-codemod on your currently open file.
 
